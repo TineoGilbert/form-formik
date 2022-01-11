@@ -1,3 +1,10 @@
+# Simple Form with the library Formik https://formik.org/  :ghost:
+
+to validate the fields I used the Yup library: https://www.npmjs.com/package/yup
+
+- App Demo: https://tineogilbert.github.io/form-formik/ :heavy_check_mark:
+- Gilbert E. Tineo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
